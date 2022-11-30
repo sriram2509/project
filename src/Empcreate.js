@@ -236,16 +236,6 @@ const EmpCreate = () => {
                                         </div>
                                     </div>
 
-
-
-                                    <div>
-                                        <textarea>
-                                            
-                                        </textarea>
-                                    </div>
-
-                                    
-
                                     <div className="col-lg-2">
                                         <div className="form-check">
                                         <input checked={active} onChange={e=>activechange(e.target.checked)} type="checkbox" className="form-check-input"></input>
